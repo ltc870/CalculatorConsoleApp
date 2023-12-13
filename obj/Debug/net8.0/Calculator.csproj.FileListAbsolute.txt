@@ -12,3 +12,9 @@ C:\Users\lawre\Projects\csharp\Calculator\obj\Debug\net8.0\refint\Calculator.dll
 C:\Users\lawre\Projects\csharp\Calculator\obj\Debug\net8.0\Calculator.pdb
 C:\Users\lawre\Projects\csharp\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
 C:\Users\lawre\Projects\csharp\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+C:\Users\lawre\Projects\csharp\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+C:\Users\lawre\Projects\csharp\Calculator\bin\Debug\net8.0\CalculatorLibrary.dll
+C:\Users\lawre\Projects\csharp\Calculator\bin\Debug\net8.0\CalculatorLibrary.pdb
+C:\Users\lawre\Projects\csharp\Calculator\obj\Debug\net8.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\lawre\Projects\csharp\Calculator\obj\Debug\net8.0\Calculator.csproj.CopyComplete
+C:\Users\lawre\Projects\csharp\Calculator\bin\Debug\net8.0\Newtonsoft.Json.dll
